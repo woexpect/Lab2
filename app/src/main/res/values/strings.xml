@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent Lab, Welcome</string>
+    <string name="title">Now, add some Picture</string>
+    <string name="gallery">Take from Gallery</string>
+    <string name="photo">Take Photo</string>
+    <string name="save">Save</string>
+    <string name="text">Enter your Text here!</string>
+</resources>
